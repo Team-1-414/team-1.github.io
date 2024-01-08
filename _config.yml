@@ -1,0 +1,9 @@
+title: Team 1
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-merlot
+github:
+  is_project_page: true
+  repository_url: https://github.com/team-1
+gems:
+  - jekyll-mentions
