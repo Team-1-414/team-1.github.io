@@ -76,6 +76,6 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 <a href = "https://docs.google.com/document/d/1SxHmUM0TabvZTdlGjk9RQn5Vs0THKnciOy4t1PnJ_zg/edit?usp=sharing">Team Contract</a>
 
-Manoa Exchange is designed, implemented, and maintained by [Kelly Sato](https://kelly-sato.github.io), [Richard Baltazar](https://RichardBzar.github.io), [Kayla-Marie Torres](https://kaylamarietorres.github.io), [Josiah Kila](https://josiahkila.github.io) and [Lauren Clayton](https://laurenjc.github.io/).
+Manoa Exchange is designed, implemented, and maintained by .
 
 _[Back to top](#important-links)_
