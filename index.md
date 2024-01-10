@@ -19,6 +19,8 @@ title: Voluntree
 
 ## Description
 
+Voluntree changes how to manage volunteers by giving an easy-to-use and complete system that puts together all important things for organizations and the volunteers too. It has a strong database for volunteers which helps in finding good chances that fit with what each volunteer likes or needs, using their full profiles. Important tools for talking, like email and text messages, keep people always connected. Other functions help with keeping track of time worked and checking volunteers' pasts to make sure everyone can be trusted. This system makes organizing times easier, helps when many volunteers work together, and lets you see detailed reports. It also works with CRM systems so that you have a complete picture of how volunteers interact. Voluntree helps organizations to make their volunteer programs better by making things work more smoothly, getting the community involved, and using data for good decisions. This makes volunteering better for all the people who take part.
+
 ### Problem Statement
 
 ### Our Solution
