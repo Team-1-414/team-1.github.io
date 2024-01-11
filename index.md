@@ -33,6 +33,10 @@ Voluntree revolutionizes volunteer management by offering an intuitive and compr
 
 <img src="/images/initial-homepage/VoluntreeLogin.png" alt="login">
 
+### Volunteer Event Opportunities Page
+
+<img src="/images/initial-homepage/VoluntreeEventOpportunities.png" alt="event-opportunities">
+
 ### Volunteer Event Registration Page
 the volunteer event registration page helps user sign up to participate in volunteer activities.
 
