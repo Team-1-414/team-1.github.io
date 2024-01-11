@@ -25,6 +25,10 @@ Voluntree revolutionizes volunteer management by offering an intuitive and compr
 
 ### Our Solution
 
+### Volunteer Event Calendar Page
+
+<img src="/images/initial-homepage/VoluntreeEventCalendar.png" alt="event-calendar">
+
 ## Goals
 
 Our aim is to make it easier for volunteers to get connected with organizations.
