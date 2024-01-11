@@ -15,7 +15,8 @@ title: Voluntree
 * [Community Feedback](#community-feedback)
 * [Developmental Progress](#developmental-progress)
 * [Deployment](#deployment)
-* [Team](#team)
+* [Team](#team-contract)
+* [Developers](#developers)
 
 ## Description
 
@@ -91,9 +92,22 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-## Team
+## Team Contract
 
 <a href = "https://docs.google.com/document/d/1SxHmUM0TabvZTdlGjk9RQn5Vs0THKnciOy4t1PnJ_zg/edit?usp=sharing">Team Contract</a>
+
+## Developers
+
+1. Truman Choy
+2. Destiny Shishido
+3. Kristine Orpilla
+4. Juvy Ann Lucero
+5. Liam Tapper
+6. Yujie He
+7. Yafei Wang
+8. Josiah Kila
+
+
 
 Manoa Exchange is designed, implemented, and maintained by [Josiah Kila](https://josiahkila.github.io), .
 
