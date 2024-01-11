@@ -23,7 +23,11 @@ Voluntree revolutionizes volunteer management by offering an intuitive and compr
 
 ### Problem Statement
 
+The problem is that there are many people who want to volunteer, but they face many challenges when it comes to finding opportunities and connecting with organizations that offer volunteer services.
+
 ### Our Solution
+
+Our client, the Voluntree, aims to remove the friction between volunteers and organizations. They want to focus on creating a platform that easily allows volunteers to find opportunities to serve in their communities, and for organizations to share their service opportunities. It is an all-in-one application that aims to benefit the community.
 
 ### Sign Up Page
 
