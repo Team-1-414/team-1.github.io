@@ -87,18 +87,11 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-## Continuous Integration
-
-## Community Feedback
-
-## Developmental Progress
-
-## Deployment
-
 ## Team
 
 <a href = "https://docs.google.com/document/d/1SxHmUM0TabvZTdlGjk9RQn5Vs0THKnciOy4t1PnJ_zg/edit?usp=sharing">Team Contract</a>
 
-Manoa Exchange is designed, implemented, and maintained by .
+Manoa Exchange is designed, implemented, and maintained by [Josiah Kila](https://josiahkila.github.io), .
 
 _[Back to top](#important-links)_
+,
