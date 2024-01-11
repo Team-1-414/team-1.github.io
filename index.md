@@ -25,6 +25,10 @@ Voluntree revolutionizes volunteer management by offering an intuitive and compr
 
 ### Our Solution
 
+### Volunteer Event Registration Page
+
+<img src="/images/initial-homepage/VolunteerEventRegistration.png" alt="event-registration">
+
 ### Volunteer Event Calendar Page
 
 <img src="/images/initial-homepage/VoluntreeEventCalendar.png" alt="event-calendar">
