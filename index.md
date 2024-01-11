@@ -26,6 +26,7 @@ Voluntree revolutionizes volunteer management by offering an intuitive and compr
 ### Our Solution
 
 ### Volunteer Event Registration Page
+the volunteer event registration Page helps user sign up to participate in volunteer activities.
 
 <img src="/images/initial-homepage/VolunteerEventRegistration.png" alt="event-registration">
 
