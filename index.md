@@ -50,9 +50,9 @@ Create a site that:
  
  First, [install Meteor](https://www.meteor.com/install).
 
-Second, visit the [Manoa Exchange application github page](https://github.com/manoa-exchange/manoa-exchange-meteor-app), and click the "Use this template" button to create your own repository initialized with a copy of this application. 
+Second, visit the [Voluntree application github page](https://github.com/team-roots/voluntree-meteor-app), and click the "Use this template" button to create your own repository initialized with a copy of this application. 
 
-Third, cd into the Manoa Exchnage /app directory and install libraries with:
+Third, cd into the Voluntree /app directory and install libraries with:
 
 ```
 $ meteor npm install
