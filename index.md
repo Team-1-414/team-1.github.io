@@ -8,9 +8,7 @@ title: Voluntree
 
 ## Table of contents
 
-* [Description](#description)
-* [Problem Statement](#problem-statement)
-* [Our Solution](#our-solution)
+* [Overview](#overview)
 * [User Guide](#user-guide)
 * [Goals](#goals)
 * [Installation Guide](#installation-guide)
@@ -33,28 +31,28 @@ The problem is that there are many people who want to volunteer, but they face m
 
 Our client, the Voluntree, aims to remove the friction between volunteers and organizations. They want to focus on creating a platform that easily allows volunteers to find opportunities to serve in their communities, and for organizations to share their service opportunities. It is an all-in-one application that aims to benefit the community.
 
-### User Guide
+## User Guide
 
 This section provides a walkthrough of the Roots user interface and its capabilities.
 
-## Sign Up Page
+### Sign Up Page
 
 <img src="/images/initial-homepage/VoluntreeSignUp.png" alt="sign-up">
 
-## Login Page
+### Login Page
 
 <img src="/images/initial-homepage/VoluntreeLogin.png" alt="login">
 
-## Volunteer Event Opportunities Page
+### Volunteer Event Opportunities Page
 
 <img src="/images/initial-homepage/VoluntreeEventOpportunities.png" alt="event-opportunities">
 
-## Volunteer Event Registration Page
+### Volunteer Event Registration Page
 the volunteer event registration page helps user sign up to participate in volunteer activities.
 
 <img src="/images/initial-homepage/VolunteerEventRegistration.png" alt="event-registration">
 
-## Volunteer Event Calendar Page
+### Volunteer Event Calendar Page
 
 <img src="/images/initial-homepage/VoluntreeEventCalendar.png" alt="event-calendar">
 
