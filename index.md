@@ -58,6 +58,11 @@ The calendar page is a great way for users to add activities to their personal c
 
 <img src="/images/initial-homepage/VoluntreeLogin.png" alt="login">
 
+### Home Page
+The home page holds everything a signed-in user needs to get started with Voluntree.
+
+<img src="/images/initial-homepage/VoluntreeHomePage.png" alt="home">
+
 ## Goals
 
 Our aim is to make it easier for volunteers to get connected with organizations.
