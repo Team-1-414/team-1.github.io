@@ -43,6 +43,10 @@ This section provides a walkthrough of the Roots user interface and its capabili
 
 <img src="/images/initial-homepage/VoluntreeLogin.png" alt="login">
 
+### Profile Page
+
+<img src="/images/initial-homepage/VoluntreeProfilePage.png" alt="profile-page">
+
 ### Volunteer Event Opportunities Page
 
 <img src="/images/initial-homepage/VoluntreeEventOpportunities.png" alt="event-opportunities">
