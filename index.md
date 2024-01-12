@@ -12,7 +12,7 @@ title: Voluntree
 * [User Guide](#user-guide)
 * [Goals](#goals)
 * [Installation Guide](#installation-guide)
-* [Team](#team-contract)
+* [Team Contract](#team-contract)
 * [Developers](#developers)
 
 ## Overview
