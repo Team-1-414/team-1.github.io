@@ -118,6 +118,6 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 7. Yafei Wang
 8. Josiah Kila
 
-Manoa Exchange is designed, implemented, and maintained by [Josiah Kila](https://josiahkila.github.io).
+Manoa Exchange is designed, implemented, and maintained by [Josiah Kila](https://josiahkila.github.io), Truman Choy, Destiny Shishido, Kristine Orpilla, Juvy Ann Lucero, Liam Tapper, Yujie He, and Yafei Wang.
 
 _[Back to top](#important-links)_
