@@ -17,7 +17,7 @@ title: Voluntree
 
 ## Overview
 
-Voluntree revolutionizes volunteer management by offering an intuitive and comprehensive platform that seamlessly integrates essential features for organizations and volunteers alike. Its volunteer database allows for effective matching of volunteers with suitable opportunities, leveraging detailed profiles and preferences. Key communication tools like email ensure constant engagement, while features such as hours tracking and background screening uphold accountability and trust. The platform simplifies scheduling, supports group volunteering activities, and provides in-depth reporting capabilities. Voluntree empowers organizations to maximize the impact of their volunteer initiatives.
+Voluntree revolutionizes volunteer management by offering an intuitive platform that integrates essential features for organizations and volunteers alike. Its volunteer database allows for effective matching of volunteers with suitable opportunities, leveraging detailed profiles and preferences. Key communication tools like email ensure constant engagement, while features such as hours tracking and background screening uphold accountability and trust. The platform simplifies scheduling, supports group volunteering activities, and provides in-depth reporting capabilities. Voluntree empowers organizations to maximize the impact of their volunteer initiatives.
 
 ### Problem Statement
 
