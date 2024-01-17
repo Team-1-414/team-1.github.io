@@ -61,7 +61,7 @@ The calendar page is a great way for users to add activities to their personal c
 ### Home Page
 The home page holds everything a signed-in user needs to get started with Voluntree.
 
-<img src="/images/M1/VoluntreeHomepage.PNG" alt="home">
+<img src="/images/M1/VoluntreeHomepage.png" alt="home">
 
 ## Goals
 
