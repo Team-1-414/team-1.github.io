@@ -1,0 +1,87 @@
+R = required
+U = unique
+* = primary key
+[ = composite primary key, appears in front of all fields that make this entity unique
+** = foreign key
+_id = MongoDB's default _id field, implied required and unique string
+
+ENTITIES
+
+User
+attributes:
+{
+  * email R U : String
+  firstName R : String
+  lastName R : String
+  ** userStatsId R U : String, references userStats._id
+}
+MongoDB's built in account system. We will add our own custom fields if needed. A user must provide their name and a unique email to create a Voluntree account.
+
+UserStats
+attributes:
+{
+  * _id
+  completedHours R : [ { month String : hours integer } ]
+}
+Every user has these statistics that will be displayed on their personal dashboard: completed hours... TODO
+
+Skill
+attributes:
+{
+  * name R U : String
+}
+The SkillsCollection will contain all the available skills that a user can have or are listed on a volunteering opportunity.
+
+UserSkills
+attributes:
+{
+  [ ** email R U : String, references user.email
+  [ ** skillName R : String, references  skill.name
+}
+
+Organization
+attributes:
+{
+  * _id
+  website : String
+  profit R : boolean
+  location R : String
+  ** OrganizationOwner R U : String, references user.email
+  ** OrganizationWaiverId U : String, references organizationWaiver._id
+  visible R : boolean
+  onboarded R : boolean
+}
+synonyms: organization owner, organization employee, volunteer
+Type can be either non-profit or for-profit. Each organization has owners and employees, and can hold events and list opportunities. Note about onboarding: not onboarded means the organization does not have a Voluntree subscription plan and cannot change anything about their organization.
+
+OrganizationAdmin
+attributes:
+{
+  [ ** employee R : String, references user.email
+  [ ** organizationId R : String, references organization._id
+}
+Join collection between users and organizations. Represents the relationship user is an employee of an organization. Has authority to post events and opportunities under the organization they are an employee of. Each user can technically be an employee of multiple organizations.
+
+OrganizationWaiver
+attributes:
+{
+  * _id
+  waiverText R : String
+}
+An organization has the option to upload their own waiver form. If it does, volunteers that sign up for opportunities from this organization will be presented with this waiver and will need to agree to it before proceeding.
+
+Opportunity
+attributes:
+{
+  * _id
+  title R : String
+  description : String
+}
+An organization can list general volunteering opportunities, such as working at a food bank that is open every week, tutoring, etc. Each opportunity has a title, optional description, schedule details, and a location.
+
+Event
+attributes:
+{
+
+}
+
