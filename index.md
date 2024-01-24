@@ -67,7 +67,7 @@ After logging in, the user will be prompted to their dashboard. They will be abl
 
 ## Volunteer Event Opportunities Page
 Users are able to explore events by clicking on the Events link in the NavBar. They are able to view cards of events listed on the application. To make the ease of viewing events easier, there is a filter column on the left that allows users to filter out events that fit their needs.
-<img src="images/Milestone1/VoluntreeEventOpportunitiesPage.PNG">
+<img src="images/milestone1/VoluntreeEventOpportunitiesPage.PNG">
 
 ## Volunteer Event Registration Page
 Users are able to click on the event card and be redirected to the volunteer event registration page. It helps users easily sign up to participate in activities. This page provides the organizations mission, location, activity details, and how the volunteer's contribution plays a role.
