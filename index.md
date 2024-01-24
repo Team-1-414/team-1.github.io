@@ -67,7 +67,7 @@ After logging in, the user will be prompted to their dashboard. They will be abl
 
 ## Volunteer Event Opportunities Page
 Users are able to explore events by clicking on the Events link in the NavBar. They are able to view cards of events listed on the application. To make the ease of viewing events easier, there is a filter column on the left that allows users to filter out events that fit their needs.
-<img src="images/Milestone1/VolunteerEventOpportunitiesPage.PNG">
+<img src="images/Milestone1/VoluntreeEventOpportunitiesPage.PNG">
 
 ## Volunteer Event Registration Page
 Users are able to click on the event card and be redirected to the volunteer event registration page. It helps users easily sign up to participate in activities. This page provides the organizations mission, location, activity details, and how the volunteer's contribution plays a role.
@@ -77,13 +77,13 @@ Users are able to click on the event card and be redirected to the volunteer eve
 Users who would like to commit to help out with this event can click on the Commit button from the opportunities page or in the volunteer event registration page by clicking the I Want to Help button. Here, they can fill out the form and register for events.
 <img src="images/M1/VolunteerRegistrationForm.png">
 
-## Volunteer ADD Event Page
+## Volunteer Add Event Page
 The page allows users to create a event by defining the event name, date, descriptioin, etc.
 <img src="images/milestone1/Milestone1AddEvent.PNG">
 
 ## Volunteer Edit Event Page
 The page also organization users to edit the details of an event.
-<img src="images/milestone1/Milestone1EditEvent.PNG">
+<img src="images/milestone1/Milestone2EditEvent.PNG">
 
 ### Profile Page
 The profile page allows users to view and edit their profile information. Similar to the dashboard, they will also be able to view their volunteer stats with Voluntree.
