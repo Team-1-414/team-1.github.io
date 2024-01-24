@@ -79,11 +79,11 @@ Users who would like to commit to help out with this event can click on the Comm
 
 ## Volunteer Event Calendar Page
 The calendar page is a great way for users to add activities to their personal calendar and physically see the event information of what they volunteered for.
-<img src="images/mockups/VoluntreeEventCalendar.png">
+<img src="images/Mockups/VoluntreeEventCalendar.png">
 
 ### Profile Page
 The profile page allows users to view and edit their profile information. Similar to the dashboard, they will also be able to view their volunteer stats with Voluntree.
-<img src="images/mockups/VoluntreeProfilePage.png">
+<img src="images/Mockups/VoluntreeProfilePage.png">
 
 
 ## Installation Guide
