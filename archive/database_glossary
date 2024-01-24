@@ -1,7 +1,7 @@
 R = required
 U = unique
 * = primary key
-[ = composite primary key, appears in front of all fields that make this entity unique
+[ = composite primary key, appears in front of all fields that make up the composite primary key
 ** = foreign key
 _id = MongoDB's default _id field, implied required and unique string
 
@@ -13,9 +13,10 @@ attributes:
   * email R U : String
   firstName R : String
   lastName R : String
+  age R : int
   ** userStatsId R U : String, references userStats._id
 }
-MongoDB's built in account system. We will add our own custom fields if needed. A user must provide their name and a unique email to create a Voluntree account.
+MongoDB's built in account system. We will add our own custom fields if needed. A user must provide their name and a unique email to create a Voluntree account. All users with an account are volunteers automatically. Users can have the "OrgAdmin" role to have access to the Volunteer Management Software (VMS).
 
 UserStats
 attributes:
@@ -30,7 +31,7 @@ attributes:
 {
   * name R U : String
 }
-The SkillsCollection will contain all the available skills that a user can have or are listed on a volunteering opportunity.
+The SkillsCollection will contain all the available skills that a user can have or are listed on a volunteering opportunity. Skills are listed on a user's profile, listed on an opportunity, and listed on events.
 
 UserSkills
 attributes:
@@ -43,22 +44,29 @@ Organization
 attributes:
 {
   * _id
+  orgId autoincrement
+  mission : String
   website : String
   profit R : boolean
   location R : String
-  ** OrganizationOwner R U : String, references user.email
-  ** OrganizationWaiverId U : String, references organizationWaiver._id
   visible R : boolean
   onboarded R : boolean
+  backgroundCheck R : boolean
+  age range R : [int, int]
+  physical ability
+  environment
+  open to high school students
+  open to children/families
+  ** OrganizationOwner R U : String, references user.email
+  ** OrganizationWaiverId U : String, references organizationWaiver._id
 }
-synonyms: organization owner, organization employee, volunteer
 Type can be either non-profit or for-profit. Each organization has owners and employees, and can hold events and list opportunities. Note about onboarding: not onboarded means the organization does not have a Voluntree subscription plan and cannot change anything about their organization.
 
 OrganizationAdmin
 attributes:
 {
   [ ** employee R : String, references user.email
-  [ ** organizationId R : String, references organization._id
+  [ ** organizationId R : String, references organization.orgId
 }
 Join collection between users and organizations. Represents the relationship user is an employee of an organization. Has authority to post events and opportunities under the organization they are an employee of. Each user can technically be an employee of multiple organizations.
 
@@ -76,12 +84,34 @@ attributes:
   * _id
   title R : String
   description : String
+  schedule : String
+  location : String
+  ** organizationId R : String, references organization._id
 }
 An organization can list general volunteering opportunities, such as working at a food bank that is open every week, tutoring, etc. Each opportunity has a title, optional description, schedule details, and a location.
+
+OpportunitySkills
+attributes:
+{
+  [ ** opportunityId R U : String, references opportunity._id
+  [ ** skillId R : String, references skill._id
+}
 
 Event
 attributes:
 {
+  * _id
+  title R : String
+  description : String
+  date : javascript date
+  time : javascript time
+  location : String
+  ** organizationId R : String, references organization._id
+}
 
+EventSkills
+{
+  [ ** eventId R U : String, references event._id
+  [ ** skillId R : String, references skill._id
 }
 
