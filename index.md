@@ -55,7 +55,7 @@ When first accessing the application, users will be greeted by the landing page.
 
 ## Sign Up Page
 If the user does not have an account with Voluntree, clicking on the Sign Up link in the NavBar will redirect them to the Sign Up page, where they will be prompted to complete a form.
-<img src="images/M1/SignUp.jpeg">
+<img src="images/M1/SignUp.png">
 
 ## Log In Page
 If the user has an account, then they may click on the Log IN link in the NavBar and they will be able to use their credentials to log in.
