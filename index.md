@@ -52,6 +52,7 @@ This section provides a walkthrough of the current mockups of the application's 
 
 ## Landing Page
 When first accessing the application, users will be greeted by the landing page.
+<img src="images/M1/LandingPage.png">
 
 ## Sign Up Page
 If the user does not have an account with Voluntree, clicking on the Sign Up link in the NavBar will redirect them to the Sign Up page, where they will be prompted to complete a form.
