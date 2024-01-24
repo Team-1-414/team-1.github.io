@@ -55,7 +55,7 @@ When first accessing the application, users will be greeted by the landing page.
 
 ## Sign Up Page
 If the user does not have an account with Voluntree, clicking on the Sign Up link in the NavBar will redirect them to the Sign Up page, where they will be prompted to complete a form.
-<img src="images/m1/LogIn.png">
+<img src="images/m1/SignUp.png">
 
 ## Log In Page
 If the user has an account, then they may click on the Log IN link in the NavBar and they will be able to use their credentials to log in.
@@ -75,7 +75,7 @@ Users are able to click on the event card and be redirected to the volunteer eve
 
 ## Volunteer Registration Form
 Users who would like to commit to help out with this event can click on the Commit button from the opportunities page or in the volunteer event registration page by clicking the I Want to Help button. Here, they can fill out the form and register for events.
-<img src="images/M1/VolunteerRegistration.png">
+<img src="images/m1/VolunteerRegistrationForm.png">
 
 ## Volunteer Event Calendar Page
 The calendar page is a great way for users to add activities to their personal calendar and physically see the event information of what they volunteered for.
