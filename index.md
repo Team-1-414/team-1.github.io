@@ -46,45 +46,44 @@ Create a site that:
 # Badge
 [![ci-voluntree-meteor-react](https://github.com/Team-Roots/voluntree-meteor-react/actions/workflows/ci.yml/badge.svg)](https://github.com/Team-Roots/voluntree-meteor-react/actions/workflows/ci.yml)
 
-## User Guide
+# User Guide
 
 This section provides a walkthrough of the current mockups of the application's user interface and its capabilities.
 
-### Landing Page
+## Landing Page
 When first accessing the application, users will be greeted by the landing page.
 
-### Sign Up Page
+## Sign Up Page
 If the user does not have an account with Voluntree, clicking on the Sign Up link in the NavBar will redirect them to the Sign Up page, where they will be prompted to complete a form.
-<img src="/images/m1/SignUp.png">
+<img src="images/m1/LogIn.png">
 
-### Log In Page
+## Log In Page
 If the user has an account, then they may click on the Log IN link in the NavBar and they will be able to use their credentials to log in.
-<img src="/images/m1/LogIn.png">
+<img src="images/m1/LogIn.png">
 
-### User Dashboard
+## User Dashboard
 After logging in, the user will be prompted to their dashboard. They will be able to see a summary of their volunteer stats, such as the number of hours they have served, and events they are registered for.
-<img src="/images/m1/UserDashboard.png">
+<img src="images/m1/UserDashboard.png">
 
-### Volunteer Event Opportunities Page
+## Volunteer Event Opportunities Page
 Users are able to explore events by clicking on the Events link in the NavBar. They are able to view cards of events listed on the application. To make the ease of viewing events easier, there is a filter column on the left that allows users to filter out events that fit their needs.
-<img src="/images/m1/VolunteerEventOpportunities.png">
+<img src="images/m1/VolunteerEventOpportunities.png">
 
-### Volunteer Event Registration Page
+## Volunteer Event Registration Page
 Users are able to click on the event card and be redirected to the volunteer event registration page. It helps users easily sign up to participate in activities. This page provides the organizations mission, location, activity details, and how the volunteer's contribution plays a role.
-<img src="/images/m1/VolunteerRegistration.png">
+<img src="images/m1/VolunteerRegistration.png">
 
-### Volunteer Registration Form
+## Volunteer Registration Form
 Users who would like to commit to help out with this event can click on the Commit button from the opportunities page or in the volunteer event registration page by clicking the I Want to Help button. Here, they can fill out the form and register for events.
-<img src="/images/M1/VolunteerRegistration.png">
+<img src="images/M1/VolunteerRegistration.png">
 
-### Volunteer Event Calendar Page
-The calendar page is a great way for users to add activities to their personal calendar and physically see the event information of what they volunteered for. 
-
-<img src="/images/Mockups/VoluntreeEventCalendar.png">
+## Volunteer Event Calendar Page
+The calendar page is a great way for users to add activities to their personal calendar and physically see the event information of what they volunteered for.
+<img src="images/Mockups/VoluntreeEventCalendar.png">
 
 ### Profile Page
-
-<img src="/images/Mockups/VoluntreeProfilePage.png">
+The profile page allows users to view and edit their profile information. Similar to the dashboard, they will also be able to view their volunteer stats with Voluntree.
+<img src="images/Mockups/VoluntreeProfilePage.png">
 
 
 ## Installation Guide
