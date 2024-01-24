@@ -71,7 +71,7 @@ Users are able to explore events by clicking on the Events link in the NavBar. T
 
 ## Volunteer Event Registration Page
 Users are able to click on the event card and be redirected to the volunteer event registration page. It helps users easily sign up to participate in activities. This page provides the organizations mission, location, activity details, and how the volunteer's contribution plays a role.
-<img src="images/M1/VolunteerRegistration.png">
+<img src="images/M1/VolunteerEventRegitration.png">
 
 ## Volunteer Registration Form
 Users who would like to commit to help out with this event can click on the Commit button from the opportunities page or in the volunteer event registration page by clicking the I Want to Help button. Here, they can fill out the form and register for events.
