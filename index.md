@@ -88,7 +88,7 @@ The page also organization users to edit the details of an event.
 
 ### Profile Page
 The profile page allows users to view and edit their profile information. Similar to the dashboard, they will also be able to view their volunteer stats with Voluntree.
-<img src="images/Mockups/VoluntreeProfilePage.png">
+<img src="images/M1/MyAccount.png">
 
 
 ## Installation Guide
