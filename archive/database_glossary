@@ -53,12 +53,11 @@ attributes:
   onboarded R : boolean
   backgroundCheck R : boolean
   age range R : [int, int]
-  physical ability
-  environment
-  open to high school students
-  open to children/families
+  physicalAbility R : String, allowed values: ['tall', 'heavy lifting']
+  environment R : String, allowed values: ['outdoor', 'indoor', 'online']
+  open to high school students R : boolean
+  open to children/families R : boolean
   ** OrganizationOwner R U : String, references user.email
-  ** OrganizationWaiverId U : String, references organizationWaiver._id
 }
 Type can be either non-profit or for-profit. Each organization has owners and employees, and can hold events and list opportunities. Note about onboarding: not onboarded means the organization does not have a Voluntree subscription plan and cannot change anything about their organization.
 
@@ -73,7 +72,7 @@ Join collection between users and organizations. Represents the relationship use
 OrganizationWaiver
 attributes:
 {
-  * _id
+  ** OrgID R U : integer, references organization.orgId
   waiverText R : String
 }
 An organization has the option to upload their own waiver form. If it does, volunteers that sign up for opportunities from this organization will be presented with this waiver and will need to agree to it before proceeding.
@@ -107,6 +106,26 @@ attributes:
   time : javascript time
   location : String
   ** organizationId R : String, references organization._id
+
+  name: String,
+        eventDate: Date,
+        description: String,
+        category: String,
+        location: String,
+        startTime: String,
+        endTime: String,
+        coordinator: String,
+        amountVolunteersNeeded: Number,
+        specialInstructions: {
+          type: String,
+          optional: true,
+        },
+        restrictions: {
+          type: Object,
+          optional: true,
+          blackbox: true,
+        },
+        owner: String,
 }
 
 EventSkills
