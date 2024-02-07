@@ -80,7 +80,7 @@ Users who would like to commit to help out with this event can click on the Comm
 
 ## Volunteer Add Event Page
 The page allows users to create a event by defining the event name, date, descriptioin, etc.
-<img src="images/milestone1/Milestone1AddEvent.PNG">
+<img src="images/M3/AddEventM3.PNG">
 
 ## Volunteer Edit Event Page
 The page also organization users to edit the details of an event.
