@@ -51,6 +51,10 @@ Create a site that:
 
 This section provides a walkthrough of the current mockups of the application's user interface and its capabilities.
 
+## Before Signed In Landing Page
+The Before Landing Page sets the tone and theme for the rest of the website. On the page we display some of the events that are available to participate in and the features Voluntree offers.
+<img src="images/BeforeLanding.PNG">
+
 ## Landing Page
 When first accessing the application, users will be greeted by the landing page.
 <img src="images/M1/LandingPage.png">
@@ -91,6 +95,10 @@ The page also organization users to edit the details of an event.
 The profile page allows users to view and edit their profile information. Similar to the dashboard, they will also be able to view their volunteer stats with Voluntree.
 <img src="images/M1/MyAccount.png">
 
+### About Us
+The About Us page tells the user the heart of why Voluntree exists. It connects to the heart of who we are and displays the immense impact Voluntree has had on the community
+<img src="images/AboutUs1.PNG">
+<img src="images/AboutUs2.PNG">
 
 ## Installation Guide
  
