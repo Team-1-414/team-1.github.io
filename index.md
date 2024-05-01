@@ -87,10 +87,6 @@ Users who would like to commit to help out with this event can click on the Comm
 The page allows users to create a event by defining the event name, date, descriptioin, etc.
 <img src="images/M3/AddEventM3.PNG">
 
-## Volunteer Edit Event Page
-The page also organization users to edit the details of an event.
-<img src="images/milestone1/Milestone2EditEvent.PNG">
-
 ### Profile Page
 The profile page allows users to view and edit their profile information. Similar to the dashboard, they will also be able to view their volunteer stats with Voluntree.
 <img src="images/M1/MyAccount.png">
