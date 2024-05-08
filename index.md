@@ -94,8 +94,8 @@ The profile page allows users to view and edit their profile information. Simila
 
 ### About Us
 The About Us page tells the user the heart of why Voluntree exists. It connects to the heart of who we are and displays the immense impact Voluntree has had on the community
-<img src="images/about-us-page.PNG">
-<img src="images/about-us-page-2.PNG">
+<img src="images/about-us-page.png">
+<img src="images/about-us-page-2.png">
 
 ## Installation Guide
  
