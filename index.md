@@ -57,15 +57,14 @@ The Landing Page sets the tone and theme for the rest of the website. On this pa
 
 ## Landing Page / Dashboard
 When first accessing the application, users will be greeted with the User Dashboard. This page displays the user's stats visually as a bar graph and a table. It also displays upcoming, subscribed, and recommended volunteering events.
-<img src="images/user-dash-1.png">
-<img src="images/user-dash-2.png">
+<img src="images/after-sign-in-landing.png">
 
 ## Sign Up Page
 If the user does not have an account with Voluntree, clicking on the Sign Up link in the NavBar will redirect them to the Sign Up page, where they will be prompted to complete a form.
 <img src="images/sign-up-page.png">
 
 ## Log In Page
-If the user has an account, then they may click on the Log IN link in the NavBar and they will be able to use their credentials to log in.
+If the user has an account, then they may click on the Login link in the NavBar and they will be able to use their credentials to log in.
 <img src="images/login-page.png">
 
 ## User Dashboard
@@ -78,8 +77,8 @@ Users are able to explore events by clicking on the Events link in the NavBar. T
 <img src="images/event-opportunities-page.png">
 
 ## Volunteer Event Registration Page
-Users are able to click on the event card and be redirected to the volunteer event registration page. It helps users easily sign up to participate in activities. This page provides the organizations mission, location, activity details, and how the volunteer's contribution plays a role.
-<img src="images/M1/VolunteerEventRegitration.png">
+Users are able to click on the event card and be redirected to the volunteer event registration page. It helps users easily sign up to participate in activities. This page provides the organization's mission, location, activity details, and how the volunteer's contribution plays a role.
+<img src="images/event-registration-page.png">
 
 ## Volunteer Registration Form
 Users who would like to commit to help out with this event can click on the Commit button from the opportunities page or in the volunteer event registration page by clicking the I Want to Help button. Here, they can fill out the form and register for events.
@@ -91,12 +90,12 @@ The page allows users to create a event by defining the event name, date, descri
 
 ### Profile Page
 The profile page allows users to view and edit their profile information. Similar to the dashboard, they will also be able to view their volunteer stats with Voluntree.
-<img src="images/M1/MyAccount.png">
+<img src="images/my-account.png">
 
 ### About Us
 The About Us page tells the user the heart of why Voluntree exists. It connects to the heart of who we are and displays the immense impact Voluntree has had on the community
-<img src="images/AboutUs1.PNG">
-<img src="images/AboutUs2.PNG">
+<img src="images/about-us-page.PNG">
+<img src="images/about-us-page-2.PNG">
 
 ## Installation Guide
  
