@@ -52,28 +52,30 @@ Create a site that:
 This section provides a walkthrough of the current mockups of the application's user interface and its capabilities.
 
 ## Before Signed In Landing Page
-The Before Landing Page sets the tone and theme for the rest of the website. On the page we display some of the events that are available to participate in and the features Voluntree offers.
-<img src="images/BeforeLanding.PNG">
+The Landing Page sets the tone and theme for the rest of the website. On this page, we display some of the events that are available to participate in and the features Voluntree offers.
+<img src="images/before-signed-in-landing.png">
 
-## Landing Page
-When first accessing the application, users will be greeted by the landing page.
-<img src="images/M1/LandingPage.png">
+## Landing Page / Dashboard
+When first accessing the application, users will be greeted with the User Dashboard. This page displays the user's stats visually as a bar graph and a table. It also displays upcoming, subscribed, and recommended volunteering events.
+<img src="images/user-dash-1.png">
+<img src="images/user-dash-2.png">
 
 ## Sign Up Page
 If the user does not have an account with Voluntree, clicking on the Sign Up link in the NavBar will redirect them to the Sign Up page, where they will be prompted to complete a form.
-<img src="images/M1/SignUp.png">
+<img src="images/sign-up-page.png">
 
 ## Log In Page
 If the user has an account, then they may click on the Log IN link in the NavBar and they will be able to use their credentials to log in.
-<img src="images/M1/LogIn.png">
+<img src="images/login-page.png">
 
 ## User Dashboard
-After logging in, the user will be prompted to their dashboard. They will be able to see a summary of their volunteer stats, such as the number of hours they have served, and events they are registered for.
-<img src="images/M1/UserDashboard.png">
+After logging in, the user will be prompted to their dashboard. They will be able to see a graph and a summary of their volunteer stats, such as the number of hours they have served. It also displays upcoming, subscribed, and recommended volunteering events.
+<img src="images/user-dash-1.png">
+<img src="images/user-dash-2.png">
 
 ## Volunteer Event Opportunities Page
-Users are able to explore events by clicking on the Events link in the NavBar. They are able to view cards of events listed on the application. To make the ease of viewing events easier, there is a filter column on the left that allows users to filter out events that fit their needs.
-<img src="images/milestone1/VoluntreeEventOpportunitiesPage.PNG">
+Users are able to explore events by clicking on the Events link in the NavBar. They are able to view cards of events listed on the application. To make the ease of viewing events easier, there are filtering options on the top that allows users to filter out events that fit their needs.
+<img src="images/event-opportunities-page.png">
 
 ## Volunteer Event Registration Page
 Users are able to click on the event card and be redirected to the volunteer event registration page. It helps users easily sign up to participate in activities. This page provides the organizations mission, location, activity details, and how the volunteer's contribution plays a role.
